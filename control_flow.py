@@ -16,3 +16,13 @@ def f2():
         print(c + ' ')
         if c == 'l':
             break
+
+# while loop
+
+
+def f3():
+    s = 'helloworld'
+    c = 0
+    while s[c] != s[len(s) - 1]:
+        print(s[c])
+        c += 1
