@@ -1,4 +1,6 @@
-from numpy import max
+import l1
 
-list = [10, 20, 40, 30]
-print(max(list))
+# l1.f1()
+# l1.f2()
+# l1.f3()
+l1.f4()
