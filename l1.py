@@ -34,4 +34,26 @@ type2
 
 def f4():
     var = 10 // 4
-    print(var)
+    var1 = 10 ** -1
+    var3 = 10 == 3
+    print(var3, type(var3))
+
+# logic
+
+
+def f5():
+    var = True
+    var1 = False
+    print(var1 and var, var1 or True, not var)
+
+# string
+
+
+def f6():
+    # string with paragraph
+    str1 = '''
+    <p1>e
+    <p2>
+    <p3>'''
+    print(str1 + str(100))
+    print(len(str1))

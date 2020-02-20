@@ -1,6 +1,4 @@
 import l1
+import control_flow as cf
 
-# l1.f1()
-# l1.f2()
-# l1.f3()
-l1.f4()
+print(cf.f2())
