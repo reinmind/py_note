@@ -1,4 +1,5 @@
 import l1
+import file_io
 import control_flow as cf
 
-print(cf.f3())
+print(file_io.f1())
